@@ -12,10 +12,6 @@ venv/
 env/
 ENV/
 
-# Ignore Poetry files
-# poetry.lock
-# pyproject.toml
-
 # Ignore Gradio cache and logs
 .gradio/
 logs/
