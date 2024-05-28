@@ -2,7 +2,7 @@
 name = "langchain_pra_app"
 version = "0.1.0"
 description = ""
-authors = ["T_Mori <morit0301@gmail.com>"]
+authors = ["T_Mori"]
 
 [tool.poetry.dependencies]
 python = "^3.11.3"
