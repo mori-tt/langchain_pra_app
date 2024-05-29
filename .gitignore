@@ -32,3 +32,5 @@ __pycache__/
 *.bak
 *.swp
 .env
+
+.chroma/
